@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "item",
+  "ingredients": [
+    {
+      "item": "minecraft:seaweed"
+    }
+  ],
+  "result": {
+    "item": "bbsquared:iodine"
+  },
+  "show_notification": true
+}

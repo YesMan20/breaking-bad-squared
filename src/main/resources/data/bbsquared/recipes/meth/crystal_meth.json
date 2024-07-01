@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "item",
+  "ingredients": [
+    {
+      "item": "bbsquared:iodine"
+    },
+    {
+      "item": "bbsquared:red_phosphorus"
+    },
+    {
+      "item": "bbsquared:pseudoephedrine"
+    },
+    {
+      "item": "bbsquared:pharmaceutic_potion"
+    }
+  ],
+  "result": {
+    "item": "bbsquared:crystal_meth"
+  },
+  "show_notification": true
+}

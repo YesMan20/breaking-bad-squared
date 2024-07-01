@@ -39,6 +39,10 @@ public class BBSModelProvider extends FabricModelProvider {
         itemModelGenerator.register(BBSItemsRegistry.PHENYLACETONE, Models.GENERATED);
 
         itemModelGenerator.register(BBSItemsRegistry.CYANIDE, Models.GENERATED);
+        itemModelGenerator.register(BBSItemsRegistry.IODINE, Models.GENERATED);
+        itemModelGenerator.register(BBSItemsRegistry.RED_PHOSPHORUS, Models.GENERATED);
+        itemModelGenerator.register(BBSItemsRegistry.WHITE_PHOSPHORUS, Models.GENERATED);
+        itemModelGenerator.register(BBSItemsRegistry.PSEUDOEPHEDRINE, Models.GENERATED);
         itemModelGenerator.register(BBSItemsRegistry.PHARMACEUTIC_POTION, Models.GENERATED);
     }
 }

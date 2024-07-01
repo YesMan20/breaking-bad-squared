@@ -22,18 +22,22 @@ public class BBSLangProvider extends FabricLanguageProvider {
         translationBuilder.add(BBSItemsRegistry.SUSPICIOUS_CRYSTAL_METH, "Suspicious Crystal Methamphetamine");
         translationBuilder.add(BBSItemsRegistry.SUSPICIOUS_POWDERED_METH, "Suspicious Powdered Methamphetamine");
 
-        translationBuilder.add(BBSItemsRegistry.HYDROGEN, "Bottle of Hydrogen");
-        translationBuilder.add(BBSItemsRegistry.METHYNOL, "Bottle of Methynol");
-        translationBuilder.add(BBSItemsRegistry.NITROGEN, "Bottle of Nitrogen");
-        translationBuilder.add(BBSItemsRegistry.AMMONIA, "Bottle of Ammonia");
-        translationBuilder.add(BBSItemsRegistry.METHYLAMINE, "Bottle of Methylamine");
-        translationBuilder.add(BBSItemsRegistry.OXYGEN, "Bottle of Oxygen");
-        translationBuilder.add(BBSItemsRegistry.ACETIC_ANHYDRIDE, "Bottle of Acetic Anhydride");
-        translationBuilder.add(BBSItemsRegistry.PHENYLACETIC_ACID, "Bottle of Phenylacetic Acid");
-        translationBuilder.add(BBSItemsRegistry.PHENYLACETONE, "Bottle of Phenylacetone");
+        translationBuilder.add("item.bbsquared.hydrogen.effect.empty", "Bottle of Hydrogen");
+        translationBuilder.add("item.bbsquared.methynol.effect.empty", "Bottle of Methynol");
+        translationBuilder.add("item.bbsquared.nitrogen.effect.empty", "Bottle of Nitrogen");
+        translationBuilder.add("item.bbsquared.ammonia.effect.empty", "Bottle of Ammonia");
+        translationBuilder.add("item.bbsquared.methylamine.effect.empty", "Bottle of Methylamine");
+        translationBuilder.add("item.bbsquared.oxygen.effect.empty", "Bottle of Oxygen");
+        translationBuilder.add("item.bbsquared.acetic_anhydride.effect.empty", "Bottle of Acetic Anhydride");
+        translationBuilder.add("item.bbsquared.phenylacetic_acid.effect.empty", "Bottle of Phenylacetic Acid");
+        translationBuilder.add("item.bbsquared.phenylacetone.effect.empty", "Bottle of Phenylacetone");
 
         translationBuilder.add(BBSItemsRegistry.CYANIDE, "Cyanide");
-        translationBuilder.add(BBSItemsRegistry.PHARMACEUTIC_POTION, "Pharmaceutic Potion");
+        translationBuilder.add(BBSItemsRegistry.IODINE, "Iodine");
+        translationBuilder.add(BBSItemsRegistry.RED_PHOSPHORUS, "Red Phosphorus");
+        translationBuilder.add(BBSItemsRegistry.WHITE_PHOSPHORUS, "White Phosphorus");
+        translationBuilder.add(BBSItemsRegistry.PSEUDOEPHEDRINE, "Pseudophedrine");
+        translationBuilder.add("item.bbsquared.pharmaceutic_potion.effect.empty", "Pharmaceutic Potion");
 
         //ToolTipped Compat
         translationBuilder.add("yapping_tooltips.item.bbsquared.pure_crystal_meth.desc", "The purest of crystal methamphetamine, made from phenylacetone  & methylamine.");
@@ -53,6 +57,10 @@ public class BBSLangProvider extends FabricLanguageProvider {
         translationBuilder.add("yapping_tooltips.item.bbsquared.phrnylacetone.desc", "A bottle of phenylacetone, made by mixing acetic anhydride and phenylacetic acid.");
 
         translationBuilder.add("yapping_tooltips.item.bbsquared.cyanide.desc", "A deadly poison extracted from bamboo.");
+        translationBuilder.add("yapping_tooltips.item.bbsquared.iodine.desc", "A nonmetallic chemical element extracted from seaweed.");
+        translationBuilder.add("yapping_tooltips.item.bbsquared.red_phosphorus.desc", "A flammable chemical made by heating up white phosphorus.");
+        translationBuilder.add("yapping_tooltips.item.bbsquared.white_phosphorus.desc", "A powder-like chemical extracted from sand.");
+        translationBuilder.add("yapping_tooltips.item.bbsquared.pseudoephedrine.desc", "A powder-like chemical extracted from wheat.");
         translationBuilder.add("yapping_tooltips.item.bbsquared.pharmaceutic_potion.desc", "A potion made by mixing water & golden carrots.");
     }
 }
