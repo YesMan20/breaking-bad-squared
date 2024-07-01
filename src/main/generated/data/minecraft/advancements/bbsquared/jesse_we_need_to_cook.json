@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "jesse_we_need_to_cook": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bbsquared:pure_powdered_meth"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": {
+      "text": "Make your first batch of Pure Powdered Meth"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "bbsquared:pure_powdered_meth"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Jesse, we Need to Cook"
+    }
+  },
+  "requirements": [
+    [
+      "jesse_we_need_to_cook"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

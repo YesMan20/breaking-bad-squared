@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "item",
+  "ingredients": [
+    {
+      "item": "bbsquared:hydrogen"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "minecraft:charcoal"
+    }
+  ],
+  "result": {
+    "item": "bbsquared:methynol"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "item",
+  "ingredients": [
+    {
+      "item": "bbsquared:acetic_anhydride"
+    },
+    {
+      "item": "bbsquared:phenylacetic_acid"
+    }
+  ],
+  "result": {
+    "item": "bbsquared:phenylacetone"
+  },
+  "show_notification": true
+}

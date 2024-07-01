@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "item",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo"
+    }
+  ],
+  "result": {
+    "item": "bbsquared:cyanide"
+  },
+  "show_notification": true
+}

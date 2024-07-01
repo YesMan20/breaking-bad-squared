@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "item",
+  "ingredients": [
+    {
+      "item": "bbsquared:ammonia"
+    },
+    {
+      "item": "bbsquared:methynol"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "result": {
+    "item": "bbsquared:methylamine"
+  },
+  "show_notification": true
+}

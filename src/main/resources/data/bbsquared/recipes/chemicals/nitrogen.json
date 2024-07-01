@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "item",
+  "key": {
+    "#": {
+      "item": "minecraft:potato"
+    },
+    "@": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    "##",
+    "#@"
+  ],
+  "result": {
+    "item": "bbsquared:nitrogen"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "boat",
+  "ingredients": [
+    {
+      "item": "bbsquared:pure_crystal_meth"
+    }
+  ],
+  "result": {
+    "item": "bbsquared:pure_powdered_meth",
+    "count": 2
+  },
+  "show_notification": true
+}

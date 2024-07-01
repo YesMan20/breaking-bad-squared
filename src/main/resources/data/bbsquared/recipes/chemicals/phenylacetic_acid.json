@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "item",
+  "ingredients": [
+    {
+      "item": "bbsquared:cyanide"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "bbsquared:phenylacetic_acid"
+  },
+  "show_notification": true
+}

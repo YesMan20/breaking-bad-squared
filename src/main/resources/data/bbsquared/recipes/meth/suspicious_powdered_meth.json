@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "boat",
+  "ingredients": [
+    {
+      "item": "bbsquared:suspicous_crystal_meth"
+    }
+  ],
+  "result": {
+    "item": "bbsquared:suspicous_powdered_meth",
+    "count": 2
+  },
+  "show_notification": true
+}

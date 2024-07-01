@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "boat",
+  "ingredients": [
+    {
+      "item": "bbsquared:crystal_meth"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    }
+  ],
+  "result": {
+    "item": "bbsquared:suspicious_crystal_meth"
+  },
+  "show_notification": true
+}
